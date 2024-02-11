@@ -1,1 +1,8 @@
-
+.transform:hover {
+    color: ghostwhite;
+    background-color: cornflowerblue;
+}
+.transform {
+    transition-duration: 2s;
+}
+/* Had to add a class name to the html. Was typing transform and nothing happend so made class name  */
